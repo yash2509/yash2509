@@ -50,5 +50,8 @@ I'm Yash Sharma, a dedicated Backend and Android Developer currently pursuing a 
 ![Yash Sharma's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yash2509&layout=compact&theme=dark)
 
 ---
+## 🏆 GitHub Trophies
+
+[![Yash Sharma's Trophies](https://github-profile-trophy.vercel.app/?username=yash2509&theme=radical&no-frame=true&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 *Feel free to explore my repositories and connect with me! Let’s build something amazing together.*
