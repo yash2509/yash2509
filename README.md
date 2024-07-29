@@ -40,8 +40,6 @@ I'm Yash Sharma, a dedicated Backend and Android Developer currently pursuing a 
 
 
 ## 🎉 Fun Facts
-
-- Passionate about learning new programming languages and technologies.
 - An avid traveler with a goal to visit every country in the world!
 
 ---
