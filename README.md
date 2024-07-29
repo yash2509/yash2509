@@ -38,7 +38,7 @@ I'm Yash Sharma, a dedicated Backend and Android Developer currently pursuing a 
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 
 
-
+---
 ## 🎉 Fun Facts
 - An avid traveler with a goal to visit every country in the world!
 
@@ -48,12 +48,6 @@ I'm Yash Sharma, a dedicated Backend and Android Developer currently pursuing a 
 
 ![Yash Sharma's GitHub stats](https://github-readme-stats.vercel.app/api?username=yash2509&show_icons=true&hide_title=true&count_private=true&theme=dark)
 ![Yash Sharma's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yash2509&layout=compact&theme=dark)
-
----
-## 📫 Contact
-
-- Email: [yash092509@gmail.com](mailto:yash092509@gmail.com)
-- LinkedIn: [linkedin.com/in/yash-sharma-4532a8229](https://www.linkedin.com/in/yash-sharma-4532a8229)
 
 ---
 
