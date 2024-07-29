@@ -58,5 +58,3 @@ I'm Yash Sharma, a dedicated Backend and Android Developer currently pursuing a 
 ---
 
 *Feel free to explore my repositories and connect with me! Let’s build something amazing together.*
-
-![Footer](https://yourimageurl.com/footer-image)
