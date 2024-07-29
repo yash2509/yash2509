@@ -10,7 +10,7 @@
 
 ## 🌟 About Me
 
-I'm Yash Sharma, a dedicated Backend and Android Developer currently pursuing a B.Tech in Information Technology at the Indian Institute of Information Technology, Una. With hands-on experience in creating and optimizing backend systems and APIs, I am passionate about using modern technologies to build scalable and efficient applications. My recent projects and internship roles have honed my skills in Python and various cloud and database technologies, equipping me to tackle complex challenges in software development.
+I'm Yash Sharma, a dedicated Backend and Android Developer currently pursuing a B.Tech in Information Technology at the Indian Institute of Information Technology, Una. With hands-on experience in creating and optimizing backend systems and APIs, I am passionate about using modern technologies to build scalable and efficient applications. My recent projects and internship roles have honed my skills in Backend and Android Development, equipping me to tackle complex challenges in software development.
 
 ---
 
