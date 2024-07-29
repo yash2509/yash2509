@@ -10,7 +10,7 @@
 
 ## 🌟 About Me
 
-I am a highly motivated and skilled Backend Developer currently pursuing my B.Tech in Information Technology at the Indian Institute of Information Technology, Una. My expertise lies in developing robust backend systems and APIs, with a keen interest in leveraging modern technologies to build scalable and efficient applications.
+I'm Yash Sharma, a dedicated Backend and Android Developer currently pursuing a B.Tech in Information Technology at the Indian Institute of Information Technology, Una. With hands-on experience in creating and optimizing backend systems and APIs, I am passionate about using modern technologies to build scalable and efficient applications. My recent projects and internship roles have honed my skills in Python and various cloud and database technologies, equipping me to tackle complex challenges in software development.
 
 ---
 
@@ -22,9 +22,18 @@ I am a highly motivated and skilled Backend Developer currently pursuing my B.Te
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-DynamoDB-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-D32D2A?style=for-the-badge&logo=redis&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Flask-SocketIO](https://img.shields.io/badge/Flask--SocketIO-000000?style=for-the-badge&logo=flask&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![S3](https://img.shields.io/badge/AWS%20S3-569A31?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-3DDC84?style=for-the-badge&logo=jetpack-compose&logoColor=white)
+
+
 
 ---
 
@@ -69,11 +78,6 @@ _Remote_
 
 **B.Tech - Information Technology**  
 *Indian Institute of Information Technology, Una*  
-_Current CGPA: 7.38_ (2021-Present)
-
-**Senior Secondary**  
-*CBSE Board*  
-_91.4%_ (2021)
 
 ---
 
@@ -96,6 +100,12 @@ My approach to development involves utilizing a combination of powerful tools an
 
 ---
 
+## 📊 GitHub Stats
+
+![Yash Sharma's GitHub stats](https://github-readme-stats.vercel.app/api?username=yash2509&show_icons=true&hide_title=true&count_private=true&theme=dark)
+![Yash Sharma's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yash2509&layout=compact&theme=dark)
+
+---
 ## 📫 Contact
 
 - Email: [yash092509@gmail.com](mailto:yash092509@gmail.com)
